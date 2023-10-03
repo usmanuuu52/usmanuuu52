@@ -1,7 +1,7 @@
-![logo](https://github.com/usmanuuu52/usmanuuu52/blob/main/Usman%20Nasir.png)
+
 <h1 align="center">Hi 👋, I'm Suleman khan</h1>
 <h3 align="center">A passionate Data Scientist | Machine Learning Engineer</h3>
-<h4 align="left">I am Usman Nasir from Pakistan.To utilize my knowledge and ideas in this field of data science,machine learning and embedded system toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.</h3>
+<h4 align="left">I am Suleman khan from Pakistan.To utilize my knowledge and ideas in this field of data science,machine learning and embedded system toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.</h3>
 <img align="right" alt="coding"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400"/>
 
 
